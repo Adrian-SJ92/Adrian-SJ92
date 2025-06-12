@@ -45,7 +45,7 @@ I'm a passionate Full Stack Developer focused on building clean, scalable, and u
 
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="20px" style="vertical-align:middle; margin-right: 8px;" />
-  <a href="https://www.instagram.com/tu-usuario" target="_blank">instagram.com/tu-usuario</a>
+  <a href="https://www.instagram.com/tu-usuario" target="_blank">instagram.com/adri_marbe</a>
 </p>
 
 <p>

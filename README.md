@@ -40,12 +40,12 @@ I'm a passionate Full Stack Developer focused on building clean, scalable, and u
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px" style="vertical-align:middle; margin-right: 8px;" />
-  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">https://www.linkedin.com/in/adrian-sanchez-jim/</a>
+  <a href="https://www.linkedin.com/in/adrian-sanchez-jim/" target="_blank">https://www.linkedin.com/in/adrian-sanchez-jim/</a>
 </p>
 
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="20px" style="vertical-align:middle; margin-right: 8px;" />
-  <a href="https://www.instagram.com/tu-usuario" target="_blank">instagram.com/adri_marbe</a>
+  <a href="https://www.instagram.com/adri_marbe" target="_blank">instagram.com/adri_marbe</a>
 </p>
 
 <p>

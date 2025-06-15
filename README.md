@@ -30,7 +30,7 @@ I'm a passionate Full Stack Developer focused on building clean, scalable, and u
 
 <ul>
   <li>
-    <strong>💈 <a href="https://github.com/Adrian-SJ92/barber-app" target="_blank">Barber App</a></strong> – Full stack appointment manager for barber shops, built with Node.js, MySQL & React.
+    <strong>💈 <a href="https://github.com/Adrian-SJ92/Soti-Barber-Studio" target="_blank">Barber App</a></strong> – Full stack appointment manager for barber shops, built with Node.js, MySQL & React.
   </li>
   
 </ul>

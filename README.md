@@ -32,6 +32,10 @@ I'm a passionate Full Stack Developer focused on building clean, scalable, and u
   <li>
     <strong>💈 <a href="https://github.com/Adrian-SJ92/Soti-Barber-Studio" target="_blank">Barber App</a></strong> – Full stack appointment manager for barber shops, built with Node.js, MySQL & React.
   </li>
+    <li>
+   <strong>🧥 <a href="https://github.com/Adrian-SJ92/MotoStyleHub" target="_blank">MotoStyleHub</a></strong> – Full stack social platform for motorcycle fashion designers, built with Node.js, MySQL & EJS. Users can register,      create profiles, and share their custom moto designs with the community.
+
+  </li>
   
 </ul>
 
